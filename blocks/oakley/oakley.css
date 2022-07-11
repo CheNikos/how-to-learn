@@ -1,0 +1,12 @@
+@import url(../description/two-columns/two-columns.css);
+@import url(../description/two-columns/__paragraph/two-columns__paragraph.css);
+@import url(../description/two-columns/__brief/two-columns__brief.css);
+@import url(../description/two-columns/__main-text/two-columns__main-text.css);
+
+.oakley {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 160px;
+    margin-top: -50px;
+}

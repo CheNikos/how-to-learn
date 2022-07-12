@@ -1,0 +1,9 @@
+.resources__logo {
+    list-style: none;
+    text-align: center;
+}
+
+.resources__logo:hover {
+    transition: 1.5s;
+    opacity: 0.43;
+  }
